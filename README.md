@@ -1,6 +1,6 @@
 👋 Hi, I’m @psih2131 (Roman)
 
-💻 Frontend Developer with 4+ years of experience  
+💻 Fullstack Developer with 4+ years of experience  
 ⚡ Working with Vue.js, Nuxt.js, JavaScript, TypeScript, Node.js, Strapi.io, Wordpress  
 
 🚀 I build fast, scalable web apps — from landing pages to complex CRM systems  
