@@ -1,13 +1,11 @@
-👋 Hi, I’m Roman (@psih2131)
+👋 Hi, I’m @psih2131 (Roman)
 
-💻 Frontend Developer (Vue / Nuxt) with 4+ years of experience  
+💻 Frontend Developer with 4+ years of experience  
+⚡ Working with Vue.js, Nuxt.js, JavaScript, TypeScript, Node.js, Strapi.io, Wordpress  
 
-⚡ I build modern web apps, CRM systems, and high-performance interfaces  
-🧠 I enjoy solving complex frontend problems and optimizing UX  
+🚀 I build fast, scalable web apps — from landing pages to complex CRM systems  
 
-🤖 Exploring AI integrations (GPT, automation, smart UI)  
+🔗 Experienced with REST API, GraphQL, WebSockets & SSR  
+🤖 Interested in AI integrations (OpenAI, GPT, automation tools)  
 
-🛠 Vue, Nuxt, JS/TS, Pinia, REST, GraphQL, Tailwind  
-
-📫 Contact:  
 LinkedIn — https://www.linkedin.com/in/roman-kuzmych-21a7b5202/
